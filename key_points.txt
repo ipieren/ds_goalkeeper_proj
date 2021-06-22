@@ -1,0 +1,25 @@
+the key steps for a data science project:
+1. project planning
+2. data collection
+3. data cleaning
+4. EDA
+5. model building
+6. production
+
+1. project planning:
+have a good idea
+-> look for data and then select the project
+-> think about problem to solve then look for data
+
+approach 1st: brainstorm ideas
+do projects related to agriculture if you want to get into that
+industry as a data scientist
+eg. you want to check how crops perform under different weather conditions
+
+
+2. data collection
+extremely different for every project
+go to the site from where you get the data
+use scraping tools from google searches to take the data
+implement in the specific IDE to get the data
+
